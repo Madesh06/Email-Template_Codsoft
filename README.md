@@ -66,9 +66,9 @@ Preview
 Header Section: Attractive logo and tagline.
 Main Body: Showcase laptops, features, and discounts.
 Footer Section: Links to customer support and terms & conditions.
-Feedback and Suggestions
-If you have any feedback or suggestions for improvement, feel free to contact me.
+Feedback
+This project is open to feedback for further improvements. Feel free to reach out!
 
 Contact Information:
-Email: YourEmail@example.com
-GitHub: YourGitHubProfile
+Email: madesh21h031@gmail.com
+GitHub: (https://github.com/Madesh06)
